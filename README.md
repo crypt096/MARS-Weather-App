@@ -1,1 +1,1 @@
-# MARS-Weather-App
+# Mars-Weather-App
